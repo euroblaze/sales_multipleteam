@@ -1,8 +1,8 @@
 {
-    'name': 'Enveseur Multiple Sales Teams',
+    'name': 'Sales Multiple Team',
     'version': '1.0',
     'category': 'Extra Tools',
-    'summary': 'Adds feature to enable adding multiple sales teams members',
+    'summary': 'Enables adding multiple sales teams members',
     'sequence': '10',
     'license': 'AGPL-3',
     'author': 'simplify-m109',
